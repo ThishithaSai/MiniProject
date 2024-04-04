@@ -1,0 +1,79 @@
+form{
+    width: 450px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  #home{
+    margin-top: 20px;
+    background: url(images/bg-1.jpg) center center fixed;
+  }
+  #navbar{
+    position:sticky;
+    width: 100%;
+    top:0px;
+  }
+  #h1{
+    font-family: cursive;
+    padding: 15px;
+  }
+  #h11{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 2em;
+    color: orangered;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+  }
+  #home1{
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    align-items: center;
+  }
+  #home2{
+    height: 500px;
+  }
+  #msg{
+    height: 100px;
+    position: absolute;
+    width: 450px;
+    resize: none;
+  }
+  .faq h4 span{
+    color:var(--primary-color);
+    font-size: 1.875rem;
+    margin-right: 0.3125rem;
+  }
+  .about-section{
+    background: var(--white-color);
+  }
+  .about-section .card,
+  .about-section .card image{
+    border-radius: 0.625rem;
+  }
+  .about-section .text-sec{
+    padding-left: 2rem;
+  }
+  #para{
+    margin-left: 100px;
+  }
+  #contact{
+    margin: 100px;
+  }
+  .card{
+    margin:30px;
+    border:1px solid;
+  }
+ #cardimg{
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  margin-top: 20px;
+ }
+#menu{
+  margin-left: 30px;
+}
